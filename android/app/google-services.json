@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "468361342400",
+    "project_id": "anoopproject-340e0",
+    "storage_bucket": "anoopproject-340e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468361342400:android:219a80291e05af630aac25",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDircp-NZhxgf9r-ttzwiixVBB4tdLqRRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
